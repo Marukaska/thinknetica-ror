@@ -52,10 +52,6 @@ class Train
     @speed = 0
   end
 
-  def gain_speed(speed)
-    @speed = speed
-  end
-
   def stop_train
     @speed = 0
   end
