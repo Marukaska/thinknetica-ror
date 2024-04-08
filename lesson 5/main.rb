@@ -287,6 +287,3 @@ end
 
 program = TextInterface.new
 program.start_program
-
-
-
